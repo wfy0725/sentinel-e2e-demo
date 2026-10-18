@@ -1,7 +1,7 @@
 # demo_config.txt -- CloudCredential Sentinel E2E experiment sample
 # NOT a real credential. Synthetic canary for detection pipeline validation.
 [production]
-AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+AWS_ACCESS_KEY_ID=AKIAQ7F3TN9WM2XK8PL5
+AWS_SECRET_ACCESS_KEY=kZ8fTq2WvRn5XmB7cLd9PgYh3NsUeA6JtRwQ2VmK
 region=us-west-2
 output=json
